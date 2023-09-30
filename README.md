@@ -13,7 +13,7 @@
 
 I'm <a href="https://tejahang.com" rel="me">Tejahang</a>!
 
-I'm a JavaScript and Python developer. I do a bunch of Ctrl Cs & Vs.
+I'm a JavaScript and Python developer. I do a lot of Ctrl C's and V's.
 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
